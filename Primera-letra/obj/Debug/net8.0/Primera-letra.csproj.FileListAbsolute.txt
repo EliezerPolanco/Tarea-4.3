@@ -1,0 +1,15 @@
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\bin\Debug\net8.0\Primera-letra.exe
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\bin\Debug\net8.0\Primera-letra.deps.json
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\bin\Debug\net8.0\Primera-letra.runtimeconfig.json
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\bin\Debug\net8.0\Primera-letra.dll
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\bin\Debug\net8.0\Primera-letra.pdb
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\obj\Debug\net8.0\Primera-letra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\obj\Debug\net8.0\Primera-letra.AssemblyInfoInputs.cache
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\obj\Debug\net8.0\Primera-letra.AssemblyInfo.cs
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\obj\Debug\net8.0\Primera-letra.csproj.CoreCompileInputs.cache
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\obj\Debug\net8.0\Primera-letra.sourcelink.json
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\obj\Debug\net8.0\Primera-letra.dll
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\obj\Debug\net8.0\refint\Primera-letra.dll
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\obj\Debug\net8.0\Primera-letra.pdb
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\obj\Debug\net8.0\Primera-letra.genruntimeconfig.cache
+C:\Users\Eliez\Desktop\C# Basico\Programas\Primera-letra\obj\Debug\net8.0\ref\Primera-letra.dll
